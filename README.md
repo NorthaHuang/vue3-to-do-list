@@ -2,6 +2,22 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+## Environment
+
+- Node.js: 20
+
+## Commit
+
+請執行 `npm run commit` 取代 `git commit` 以確保 commit 內容能在規範之中。
+
+相關規範請參閱 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
+## Release
+
+請執行 `npm run release`。
+
+相關 API 請參閱 [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version#first-release) repo。
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
